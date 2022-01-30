@@ -20,3 +20,10 @@ Ao criar uma API sempre devemos pensar na segurança, temos OWASP que é uma fun
 
 ## RESUMO
 Uma API deve ter um serviço de fácil entendimento para o back-end, entender todos os passos da modelagem e que a mesma possua as boas práticas, seja de fácil consumo e garanta uma excelente segurança nos dados transferidos através da aplicação.
+
+# Links Úteis
+
+https://owasp.org/
+https://owasp.org/www-project-api-security/
+https://apiacademy.co/
+https://www.openapis.org/
